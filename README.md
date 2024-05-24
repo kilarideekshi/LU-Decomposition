@@ -19,8 +19,8 @@ To write a program to find the LU Decomposition of a matrix.
 
 #Use LU Decomposition to find L and U matrix.INPUT:[[3,2,7],[2,3,1],[3,4,1]]
 '''program to find L and U matrix using LU decompostition.
-Develeped by : Divya.A
-RegisterNumber:2305002007
+Develeped by : K.Deekshitha
+RegisterNumber:2305002005
 '''
 #To print L and U matrix
 import numpy as np
@@ -34,8 +34,8 @@ print(U)
 
 Use LU Decomposition to solve a matrix.INPUT:[[3,2,7],[2,3,1],[3,4,1]]   [4,5,7]
 '''program to find L and U matrix using LU decompostition.
-Develeped by : Divya.A
-RegisterNumber:2305002007
+Develeped by : Deekshitha
+RegisterNumber:2305002005
 '''
 #To print X matrix(solution to the equations)
 import numpy as np
